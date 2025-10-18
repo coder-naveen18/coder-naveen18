@@ -1,7 +1,7 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-### <div align="center">I'm Naveen Sahu, a full-time full-stack freelance developer 👨‍💻 learning Programming and Tech since 2021.. 🚀</div>  
+<!-- <div align="center">
+<!-- <img src="" align="center" style="width: 100%" /> -->
+<!-- </div>   -->
+<div align="center"><h1>I'm Naveen Sahu, a full-time full-stack developer 👨‍💻 learning Programming and Tech since 2021.. 🚀</h1></div>  
   
 
 - 🔭 I’m currently working on [FinDash - Personal finance dashboard](https://github.com/coder-naveen18/Finance-dashboard-fullStack-project)  
@@ -78,40 +78,16 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
 <br/>  
 
 
 ## Recent Blog Posts  
-
-
-### From Scratch to Full-Stack: Building FinDash, a Secure Personal Finance Dashboard  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+### From Scratch to Full-Stack: Building FinDash, a Secure Personal Finance Dashboard [medium](https://medium.com/@codersahu18) 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 
 <!--
 **coder-naveen18/coder-naveen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
