@@ -63,6 +63,10 @@
 <br/>  
 
 
+## Project Links
+ - LinkedIn UI Clone --> [LinkedIn UI Clone](https://coder-naveen18.github.io/Linkedin-clone/)  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/coder-naveen18/" target="_blank">
