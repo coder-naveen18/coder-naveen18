@@ -66,7 +66,13 @@
 ## Project Links
  - LinkedIn UI Clone --> [LinkedIn UI Clone](https://coder-naveen18.github.io/Linkedin-clone/)  
 
+## 🏅 Community Badges
 
+### Hacktoberfest 2025 Badges
+
+[![Holopin Badge](https://holopin.me/codernaveen18)](https://holopin.io/@codernaveen18)
+
+---
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/coder-naveen18/" target="_blank">
@@ -89,6 +95,7 @@
 ### From Scratch to Full-Stack: Building FinDash, a Secure Personal Finance Dashboard [medium](https://medium.com/@codersahu18) 
 
 <br />
+
 
 
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
