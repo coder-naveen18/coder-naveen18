@@ -4,15 +4,13 @@
 <div align="center"><h1>I'm Naveen Sahu, a full-time full-stack developer 👨‍💻 learning Programming and Tech since 2021.. 🚀</h1></div>  
   
 
-- 🔭 I’m currently working on [FinDash - Personal finance dashboard](https://github.com/coder-naveen18/Finance-dashboard-fullStack-project)  
+- 🔭 I’m currently working on [E-commerce backend development with python(django)](https://github.com/coder-naveen18/E-Commerce-Backend-creation)
+- 🔭 I've worked on [FinDash - Personal finance dashboard](https://github.com/coder-naveen18/Finance-dashboard-fullStack-project)  
   
-
 - 🌱 I’m currently learning Python(Django) and DSA  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
