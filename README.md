@@ -61,9 +61,6 @@
 <br/>  
 
 
-## Project Links
- - LinkedIn UI Clone --> [LinkedIn UI Clone](https://coder-naveen18.github.io/Linkedin-clone/)  
-
 ## 🏅 Community Badges
 
 ### Hacktoberfest 2025 Badges
