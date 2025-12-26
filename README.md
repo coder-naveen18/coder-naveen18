@@ -13,8 +13,7 @@ and actively learning advanced backend concepts like caching, testing, and deplo
 
 ### 📁 Featured Projects
 🔹 **E-Commerce Backend API** – Complete RESTful API with auth, cart, orders  
-🔹 **(Other backend project)** – One more backend API or microservice  
-🔹 **(Optional)** – Swagger / Postman API documentation
+
 
 
 - 🔭 I’m currently working on [E-commerce backend development with python(django)](https://github.com/coder-naveen18/E-Commerce-Backend-creation)
