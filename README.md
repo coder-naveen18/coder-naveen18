@@ -16,7 +16,8 @@ and actively learning advanced backend concepts like caching, testing, and deplo
 
 
 
-- 🔭 I’m currently working on [E-commerce backend development with python(django)](https://github.com/coder-naveen18/E-Commerce-Backend-creation)
+- 🔭 I’m currently working on [Hospital Management System](https://github.com/coder-naveen18/Hospital-Management-System)
+- 🔭 I’m currently working on [ E-commerce backend development with python(django)](https://github.com/coder-naveen18/E-Commerce-Backend-creation)
 - 🔭 I've worked on [FinDash - Personal finance dashboard](https://github.com/coder-naveen18/Finance-dashboard-fullStack-project)  
 - 🌱 I’m currently learning Python(Django) and DSA  
 - ⚡ Fun fact: I use tabs over spaces  
